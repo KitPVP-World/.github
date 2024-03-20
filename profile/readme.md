@@ -12,8 +12,7 @@ Join via kitpvp.world, its not that difficult (`1.19.2 - 1.20.x`)
 Questions? [Join our discord](https://dc.kitpvp.world).
 
 ### Huge thanks to our developement team
-
-[@npa5](https://github.com/npa5), [@Snabeldier](https://github.com/Snabeldier), [@iamkyaru](https://github.com/iamkyaru), and [@NotStevy](https://github.com/notstevy)
+ [@NotStevy](https://github.com/notstevy)
 
 Also, big thanks to all contributors
 
