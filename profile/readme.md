@@ -5,7 +5,7 @@ Here you can find all of our open source projects
 
 ### Join KitPvP.world soon
 
-Join via kitpvp.world, its not that difficult (`1.19.2 - 1.20.x`)
+Join via kitpvp.world, its not that difficult (`1.20.1 - 1.21+`)
 
 ![how to join](https://i.imgur.com/s08c6rh.gif)
 
