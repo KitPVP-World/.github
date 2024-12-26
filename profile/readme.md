@@ -13,5 +13,5 @@ Questions? [Join our discord](https://discord.gg/XbgNqX82eg).
 ### Huge thanks to our developement team
  [@NotStevy](https://github.com/notstevy), [@iamkyaru](https://github.com/iamkyaru)
 
-Also, big thanks to all contributors
+and thanks to all contributors
 
