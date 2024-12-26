@@ -11,7 +11,5 @@ IP: KitPvP.world (`1.20.1 - 1.21+`)
 Questions? [Join our discord](https://discord.gg/XbgNqX82eg).
 
 ### Huge thanks to our developement team
- [@NotStevy](https://github.com/notstevy), [@iamkyaru](https://github.com/iamkyaru)
-
-and thanks to all contributors
+ [@NotStevy](https://github.com/notstevy), [@iamkyaru](https://github.com/iamkyaru) and thanks to all contributors.
 
