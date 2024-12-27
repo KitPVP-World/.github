@@ -1,5 +1,5 @@
   ![icon](https://avatars.githubusercontent.com/u/131176467?s=200&v=4)
-  ## KitPvP.world • Bring Back The Fun In PvP
+  ## KitPvP.world • ʙʀɪɴɢ ʙᴀᴄᴋ ᴛʜᴇ ꜰᴜɴ ɪɴ ᴋɪᴛᴘᴠᴘ
 
 Here you can find all of our open source projects
 
